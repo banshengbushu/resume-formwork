@@ -1,0 +1,177 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "UA-63818301-2",
+  "resume_title": "王丹娜 - 个人简历",
+  "name": "王丹娜",
+  "repo": "https://github.com/joyeecheung/resume.git",
+  "job_description": ["前端工程师"],
+  "contact": {
+    "email": "wangdanna1995@outlook.com",
+    "github": {
+      "id": "banshengbushu"
+    },
+    "blog": {
+      "url": "http://blog.csdn.net/bsbsdxbd"
+    },
+    "wechat": {
+      "id": "18829291559",
+      "qrcode": "static/wechat.jpg"
+    }
+  },
+  "links": [{
+    "type": "repo",
+    "url": "https://github.com/joyeecheung/resume"
+
+  }, {
+    "type": "pdf",
+    "url": "static/joyeecheung.pdf"
+
+  }, {
+    "type": "zhihu",
+    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
+  }, {
+    "type": "doubanbook",
+    "url": "http://book.douban.com/people/joyee-cheung/"
+  }],
+  "education": [{
+    "type": "undergraduate",
+    "name": "西安邮电大学",
+    "major": "自动化",
+    "start": "2013.09",
+    "end": "2017.06",
+    "honor": [
+    ]
+  }],
+  "language": [{
+    "type": "english",
+    "certificate": [{
+      "type": "",
+      "full": "710",
+      "score": ""
+    }],
+    "description": [
+    ]
+  }],
+  "experience": [{
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "ThoughtWorks暑期特训营",
+    "start": "2016.07",
+    "end": "2016.09",
+    "name": "",
+    "description": [
+      "采用`敏捷开发`和`测试先行`的思想学习 React、Redux 等前端框架团队合作完成了一些项目"
+    ],
+    "stack": [],
+    "compatibility": "IE8+"
+  },  {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "洗刷刷（解决洗澡堂洗澡排队问题）",
+    "source": "https://github.com/banshengbushu/xiShuaShua",
+    "demo": "",
+    "description": [
+      "包括个人中心、自主预约、系统最佳推荐、预约成功等功能，我负责自主预约和最佳推荐功能，同时担任Team Leader",
+      "项目使用 `Express` 建立项目框架，`Webpack` 构建工具， `Bootstrap` 生成响应式样式",
+      "采用 `React` 和 `Redux` 渲染页面，`MongoDB` 存储数据"
+    ],
+    "stack": ["webpack", "Bootstrap", "express","superAgent","React","Redux","mongoDB"],
+    "compatibility": "IE9+"
+  },{
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "todoList（记录每天的任务并查看完成情况）",
+    "source": "https://github.com/banshengbushu/todoList-demo",
+    "demo": "",
+    "description": [
+      "React-Redux 渲染前台页面， Express 搭建服务器，使用 MongoDB 存储数据",
+      "个人完成添加任务，删除任务，查看状态等功能"
+    ],
+    "stack": ["jade", "postcss", "markdown",  "webpack", "gulp"],
+    "compatibility": "IE9+"
+  },
+    {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "",
+    "source": "",
+    "demo": "",
+    "description": [
+      "POS机系统后台设计：https://github.com/banshengbushu/my-oo-pos",
+      "邮编和条码互相转化：https://github.com/banshengbushu/jasmine-postnet",
+      "猜数字游戏：https://github.com/banshengbushu/express-guess-number",
+      "外卖计费系统后台设计：https://github.com/banshengbushu/take-out-food"
+    ],
+    "stack": ["React","Redux","mongoDB"],
+    "compatibility": "IE9+"
+  }],
+  "skills": [{
+    "type": "frontend",
+    "item": [{
+      "summary": "",
+      "description": [
+        "能够编写语义化的 `HTML`，模块化的 `CSS`",
+        "了解 `HTML5` 和 `CSS3` 等相关知识"
+      ]
+    }, {
+      "summary": "",
+      "description": [
+        "熟悉 `ES6` 新标准与相关后台处理工具并能在项目中使用"
+      ]
+    }, {
+      "summary": "",
+      "description": [
+        "熟悉 `SuperAgent` 和 `Ajax` 的使用",
+        "了解 `jQuery`、`Bootstrap` 以及`库`和`框架`区别",
+        "了解 `Browserify`/ `WebPack` 等前端自动化构建工具",
+        "了解前端测试工具 `Jasmine` 的使用"
+      ]
+    }]
+  }, {
+    "type": "backend",
+    "item": [{
+      "summary": "",
+      "description": [
+        "了解`面向对象`和`面向过程`的编程思想",
+        "能够使用 `React` / `Express` / `SuperAgent` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`风格API",
+        "能编写简单的 `Express` / `Connect` / `provider` 中间件，使用 `Jasmine`编写单元测试"
+      ]
+    }, {
+      "summary": "",
+      "description": [
+        "熟悉`Access`、`mySQL`以及`MongoDB`等数据库开发",
+        "了解 `HTTP`、 `TCP/IP`等协议"
+      ]
+    }]
+  }, {
+    "type": "miscellaneous",
+    "item": [
+      "具有 `Linux` 使用经验，熟悉基本常用命令",
+      "能够使用 `Markdown` 编写得体的中文文档，具备良好的技术交流能力",
+      "日常使用 `Git` 与 `WebStorm` 进行开发",
+      "了解`代码重构`和`结对编程`,热爱互联网和技术",
+      "了解单元测试和集成测试"
+    ]
+  },{
+    "type": "miscellaneous",
+    "item": [
+      "在ThoughtWorks卓越女生计划实验室中深入学习了`敏捷开发`的思想",
+      "画 `Tasking` 和 `Pipeline` 图",
+      "对每个模块的输入和输出正确与否进行测试",
+      "模块化驱动功能的实现"
+    ]
+  },{
+    "type": "miscellaneous",
+    "item": [
+      "擅长安装各个操作系统,自学能力较强",
+      "喜欢自己主动去发现电脑的各种小问题然后解决",
+      "擅长视频制作和剪辑",
+      "对敏捷开发和极限编程感兴趣，乐于尝试新工具",
+      "喜欢看博客，上知乎，各种寻找好玩的App",
+      "擅长下棋、打球、唱歌"
+    ]
+  }]
+}
