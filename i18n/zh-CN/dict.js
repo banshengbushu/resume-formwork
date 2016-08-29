@@ -5,7 +5,9 @@ module.exports = {
     skill_type: {
         "frontend": "Web 前端",
         "backend": "Web 后端",
-        "miscellaneous": "其他"
+        "miscellaneous": "其他",
+        "love":"兴趣爱好",
+        "practice":"前端实践"
     },
     education_type: {
         "undergraduate": "（本科）"
@@ -40,6 +42,8 @@ module.exports = {
         demo: "Demo"
     },
     project_type: {
-        "personal": "个人项目"
+        "personal": "个人项目",
+        "team":"团队项目",
+        "practice":"前端小练习"
     }
 };

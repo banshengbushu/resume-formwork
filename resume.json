@@ -14,7 +14,7 @@
       "url": "http://blog.csdn.net/bsbsdxbd"
     },
     "wechat": {
-      "id": "18829291559",
+      "id": "188-2929-1559",
       "qrcode": "static/wechat.jpg"
     }
   },
@@ -36,7 +36,7 @@
   "education": [{
     "type": "undergraduate",
     "name": "西安邮电大学",
-    "major": "自动化",
+    "major": "自动化专业",
     "start": "2013.09",
     "end": "2017.06",
     "honor": [
@@ -60,21 +60,21 @@
     "end": "2016.09",
     "name": "",
     "description": [
-      "采用`敏捷开发`和`测试先行`的思想学习 React、Redux 等前端框架团队合作完成了一些项目"
-    ],
+      "采用`敏捷开发`和`Test First`的思想学习 React、Redux 等前端框架团队合作完成了项目"
+  ],
     "stack": [],
     "compatibility": "IE8+"
   },  {
     "type": "project",
     "techtype": "frontend",
-    "project_type": "personal",
+    "project_type": "team",
     "name": "洗刷刷（解决洗澡堂洗澡排队问题）",
     "source": "https://github.com/banshengbushu/xiShuaShua",
     "demo": "",
     "description": [
-      "包括个人中心、自主预约、系统最佳推荐、预约成功等功能，我负责自主预约和最佳推荐功能，同时担任Team Leader",
+      "包括个人中心、自主预约、系统最佳推荐、预约成功等功能，我负责页面设计、任务划分、自主预约和最佳推荐功能，同时担任Team Leader",
       "项目使用 `Express` 建立项目框架，`Webpack` 构建工具， `Bootstrap` 生成响应式样式",
-      "采用 `React` 和 `Redux` 渲染页面，`MongoDB` 存储数据"
+      "用 `React` 和 `Redux` 渲染页面，`MongoDB` 存储数据"
     ],
     "stack": ["webpack", "Bootstrap", "express","superAgent","React","Redux","mongoDB"],
     "compatibility": "IE9+"
@@ -95,15 +95,15 @@
     {
     "type": "project",
     "techtype": "frontend",
-    "project_type": "personal",
+    "project_type": "practice",
     "name": "",
     "source": "",
     "demo": "",
     "description": [
-      "POS机系统后台设计：https://github.com/banshengbushu/my-oo-pos",
-      "邮编和条码互相转化：https://github.com/banshengbushu/jasmine-postnet",
-      "猜数字游戏：https://github.com/banshengbushu/express-guess-number",
-      "外卖计费系统后台设计：https://github.com/banshengbushu/take-out-food"
+      "`POS机系统后台设计`：https://github.com/banshengbushu/my-oo-pos",
+      "`邮编和条码互相转化`：https://github.com/banshengbushu/jasmine-postnet",
+      "`猜数字游戏`：https://github.com/banshengbushu/express-guess-number",
+      "`Resterful-Web-API设计数据库的增删改查`：https://github.com/Team-SWGalaxy/RESTful-webAPI-WangDanNa"
     ],
     "stack": ["React","Redux","mongoDB"],
     "compatibility": "IE9+"
@@ -114,7 +114,8 @@
       "summary": "",
       "description": [
         "能够编写语义化的 `HTML`，模块化的 `CSS`",
-        "了解 `HTML5` 和 `CSS3` 等相关知识"
+        "了解 `HTML5` 和 `CSS3` 等相关知识",
+        "了解 `React` 和 `Redux` 等前端框架，能编写简单的 `Connect` / `provider` 中间件"
       ]
     }, {
       "summary": "",
@@ -124,10 +125,8 @@
     }, {
       "summary": "",
       "description": [
-        "熟悉 `SuperAgent` 和 `Ajax` 的使用",
         "了解 `jQuery`、`Bootstrap` 以及`库`和`框架`区别",
-        "了解 `Browserify`/ `WebPack` 等前端自动化构建工具",
-        "了解前端测试工具 `Jasmine` 的使用"
+        "了解 `Browserify`/ `WebPack` 等前端自动化构建工具"
       ]
     }]
   }, {
@@ -136,32 +135,33 @@
       "summary": "",
       "description": [
         "了解`面向对象`和`面向过程`的编程思想",
-        "能够使用 `React` / `Express` / `SuperAgent` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`风格API",
-        "能编写简单的 `Express` / `Connect` / `provider` 中间件，使用 `Jasmine`编写单元测试"
+        "熟悉 `Node.js` 在服务端的基本使用",
+        "熟悉 `SuperAgent`，了解`Ajax` 的使用",
+        "能够使用  `Express` / `SuperAgent` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`风格API",
+        "会使用 `Jasmine`编写单元测试和集成测试"
       ]
     }, {
       "summary": "",
       "description": [
-        "熟悉`Access`、`mySQL`以及`MongoDB`等数据库开发",
-        "了解 `HTTP`、 `TCP/IP`等协议"
+        "熟悉 `mySQL` 以及 `MongoDB` 等数据库开发",
+        "了解 `HTTP`、 `TCP/IP` 等协议"
       ]
     }]
   }, {
     "type": "miscellaneous",
     "item": [
       "具有 `Linux` 使用经验，熟悉基本常用命令",
-      "能够使用 `Markdown` 编写得体的中文文档，具备良好的技术交流能力",
-      "日常使用 `Git` 与 `WebStorm` 进行开发",
-      "了解`代码重构`和`结对编程`,热爱互联网和技术",
-      "了解单元测试和集成测试"
+      "能够使用 `Markdown` 编写得体的中文文档，具备良好的技术交流能力和业务分析能力",
+      "日常熟练使用 `Git` 与 `WebStorm` 进行开发，了解SVN版本控制工具",
+      "了解`代码重构`和`结对编程`,热爱互联网和技术"
     ]
   },{
     "type": "miscellaneous",
     "item": [
-      "在ThoughtWorks卓越女生计划实验室中深入学习了`敏捷开发`的思想",
-      "画 `Tasking` 和 `Pipeline` 图",
-      "对每个模块的输入和输出正确与否进行测试",
-      "模块化驱动功能的实现"
+      "在ThoughtWorks卓越女生计划实验室中深入学习了`敏捷开发`的流程",
+      "画 `Tasking`图和`原型图`、（组件图）明确 `AC`",
+      "对每个模块的输入和输出进行`测试`",
+      "模块化开发"
     ]
   },{
     "type": "miscellaneous",
@@ -170,7 +170,7 @@
       "喜欢自己主动去发现电脑的各种小问题然后解决",
       "擅长视频制作和剪辑",
       "对敏捷开发和极限编程感兴趣，乐于尝试新工具",
-      "喜欢看博客，上知乎，各种寻找好玩的App",
+      "喜欢看博客，上知乎，寻找好玩的App",
       "擅长下棋、打球、唱歌"
     ]
   }]
